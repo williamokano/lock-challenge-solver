@@ -2,8 +2,8 @@
 Solves the lock challenge
 
 # Install
-`git clone git@github.com:williamokano/lock-challenge-solver.git`
-`cd lock-challenge-solver`
+`git clone git@github.com:williamokano/lock-challenge-solver.git`  
+`cd lock-challenge-solver`  
 `composer install`
 
 # Run
