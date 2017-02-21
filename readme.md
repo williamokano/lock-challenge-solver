@@ -11,3 +11,6 @@ Solves the lock challenge
 
 # Answer
 If this code is right, the only number that match all the constraints is `042`
+
+# The challenge (pt_BR)
+![Challenge](assets/challenge.png?raw=true "Challenge")
