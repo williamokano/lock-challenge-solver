@@ -1,0 +1,17 @@
+{
+    "name": "williamokano/lock-challenge-solver",
+    "description": "Solves the Lock Challenge",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Okano",
+            "email": "williamokano@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Katapoka\\Katapoka\\" : "src/"
+        }
+    },
+    "require": {}
+}
